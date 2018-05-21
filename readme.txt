@@ -1,1 +1,2 @@
 Please follow the NASM manual on how to compile nasm files.the additional packages needed to compile nasm programes are also given in the file.the compilation of floating point programes are slight different from others ,so please be carefull while you compile.all the programmes in the directory has been tested correct for latest nasm package. 
+each section contains a pdf with questions and all assignment problems have been solved.
